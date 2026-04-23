@@ -178,7 +178,7 @@ Graphs are generated using Python (matplotlib).
 
 ## Author
 
-Palak
+Shiv
 
 ---
 
